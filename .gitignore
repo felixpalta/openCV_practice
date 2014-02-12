@@ -1,0 +1,8 @@
+/*/Debug
+/*/Release
+*.user
+*.filters
+*.avi
+*.3gp
+*.sln
+*.suo

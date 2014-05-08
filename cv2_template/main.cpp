@@ -1,9 +1,8 @@
-//#include <opencv2/opencv.hpp>
-#include <opencv2/highgui/highgui.hpp>
+
+#include <opencv2/opencv.hpp>
 
 #include <iostream>
 
-//#include <videoInput.h>
 
 std::string inWinName = "original";
 const std::string outWinName = "result";

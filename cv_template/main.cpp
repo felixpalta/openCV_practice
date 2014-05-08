@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <iostream>
 
-#include <videoInput.h>
+
 
 const char *inWinName = "original";
 const char *outWinName = "result";

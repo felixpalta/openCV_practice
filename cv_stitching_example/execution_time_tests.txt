@@ -1,0 +1,13 @@
+Stitching two images with OpenCV Stitcher
+
+Debug Configuration:
+	try_use_gpu = false:
+		Time: 1m 20s (80 sec)
+	try_use_gpu = true:
+		Time: 1m 4s (64 sec) // not a stable value
+Release Configuration:
+	try_use_gpu = false:
+		Time: 4 - 9 sec
+	try_use_gpu = true:
+		Time: 4 - 6 sec
+	

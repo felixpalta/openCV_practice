@@ -6,3 +6,4 @@
 *.3gp
 *.sln
 *.suo
+/cv_stitching_example/*.jpg
